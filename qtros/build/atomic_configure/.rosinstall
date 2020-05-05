@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/slahuddin/catkin_ws/src/qtros/build/devel/setup.sh
